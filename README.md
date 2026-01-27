@@ -18,3 +18,4 @@ This repository documents my daily progress in the "100 Days of Code" bootcamp b
 | 10 | Function with Output ; Multiple Return Values ; Docstrings | [Calculator](./Day10/Final_Calculator_Project) |
 | 11 | Blackjack Capstone | [Blackjack Game](./Day11/Final_Blackjack_Project) |
 | 12 | Namespaces and Scopes ; Block Scopes ; Global Vars ; Global Constants | [Number Guessing Game](./Day12/Final_Number_Guessing_Project) |
+| 13 | Desceibe the Problem ; Reproduce the Bug ; Play Computer ; Fix Errors ; Use Print ; Use a Debugger |
